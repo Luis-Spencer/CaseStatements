@@ -1,0 +1,15 @@
+K:\GitCode\CaseStatements\bin\Debug\net6.0\CaseStatements.exe
+K:\GitCode\CaseStatements\bin\Debug\net6.0\CaseStatements.deps.json
+K:\GitCode\CaseStatements\bin\Debug\net6.0\CaseStatements.runtimeconfig.json
+K:\GitCode\CaseStatements\bin\Debug\net6.0\CaseStatements.dll
+K:\GitCode\CaseStatements\bin\Debug\net6.0\CaseStatements.pdb
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.csproj.AssemblyReference.cache
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.GeneratedMSBuildEditorConfig.editorconfig
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.AssemblyInfoInputs.cache
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.AssemblyInfo.cs
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.csproj.CoreCompileInputs.cache
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.dll
+K:\GitCode\CaseStatements\obj\Debug\net6.0\refint\CaseStatements.dll
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.pdb
+K:\GitCode\CaseStatements\obj\Debug\net6.0\CaseStatements.genruntimeconfig.cache
+K:\GitCode\CaseStatements\obj\Debug\net6.0\ref\CaseStatements.dll
